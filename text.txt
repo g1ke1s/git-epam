@@ -1,2 +1,4 @@
-This is the beginning of my git path. Wish myself all the best
+A computation is any type of arithmetic or non-arithmetic calculation that is well-defined.[1][2] Common examples of computation are mathematical equation solving and the execution of computer algorithms.
+
+Mechanical or electronic devices (or, historically, people) that perform computations are known as computers. Computer science is a field that involves the study of computation.
 
